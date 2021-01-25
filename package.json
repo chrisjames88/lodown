@@ -1,0 +1,22 @@
+{
+  "name": "lodown-chrisjames88",
+  "version": "1.0.0",
+  "description": "My lodown project",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "istanbul cover _mocha -- test/ -R spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chrisjames88/lodown.git"
+  },
+  "author": "Christopher James",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chrisjames88/lodown/issues"
+  },
+  "homepage": "https://github.com/chrisjames88/lodown#readme"
+}
